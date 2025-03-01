@@ -1,3 +1,12 @@
+# GRUPO ENCUNETRO FINAL
+Karen Ivon Gómez Daza
+Zuly Yolima Garzón Villalba
+Damaris Yiseth Solarte Carvajal
+Laura Lorena Rodriguez Luna
+
+
+
+
 # Análisis de Calidad del Aire en Vecindarios New York
 
 📊 Resumen
